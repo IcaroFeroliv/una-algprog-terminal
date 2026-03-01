@@ -7,4 +7,4 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 - `ni` : Para criar o arquivo txt.
 
 ## 📸 Evidência de Execução
-![Foto do meu terminal](./terminal.j)
+![Foto do meu terminal](./terminal.jpeg)
